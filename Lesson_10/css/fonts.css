@@ -1,0 +1,13 @@
+/* ====================== ШРИФТИ =============================== */
+
+/* ----------------- підключаємо шрифт Roboto */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+/* ----------------- підключаємо шрифт Lato з OnlineCourse */
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+/* ----------------- підключаємо Poiret - Кириллические шрифт - 400*/
+
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
